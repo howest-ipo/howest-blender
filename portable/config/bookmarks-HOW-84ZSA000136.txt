@@ -1,0 +1,9 @@
+[Bookmarks]
+[Recent]
+C:\Users\541E3C6364D69A19901\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\scripts\startup\bl_app_templates_system\Visualisation\
+C:\Users\Glenn\Downloads\
+C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\datafiles\assets\materials\
+C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\scripts\startup\bl_app_templates_system\Visualisation\
+C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\blender-5.0.1-windows-x64\5.0\scripts\startup\bl_app_templates_system\Visualisation\
+!Documents
+C:\Users\Glenn\OneDrive\Documenten\

@@ -1,0 +1,5 @@
+Color ▸ Alpha Over
+Transform ▸ Scale
+Face (Ctrl F) ▸ Shade Smooth
+   Birch Natural Finish(1)
+   cardboard_material
