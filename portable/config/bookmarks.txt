@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
+C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Course\Photo matching\Course material\exercise files\exercise 2\
+C:\Temp\
+C:\Users\Glenn\Downloads\
+E:\context\context\images\
 C:\Users\Glenn\Downloads\photo_matching_exercise_1_drone_display\exercise 1\
+C:\Users\541E3C6364D69A19901\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Experiments\LowStool\model\
+C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Assets\Studio scenes\
 C:\Users\Glenn\Downloads\exercise\
 C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Course\Photo matching\Course material\exercise files\exercise 1\
-C:\Temp\
 C:\Users\541E3C6364D69A19901\Downloads\
-C:\Users\541E3C6364D69A19901\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\scripts\startup\bl_app_templates_system\Visualisation\
-C:\Users\Glenn\Downloads\
-C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\datafiles\assets\materials\
-C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\howest-blender-5.0.1\5.0\scripts\startup\bl_app_templates_system\Visualisation\
-C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\blender-5.0.1-windows-x64\5.0\scripts\startup\bl_app_templates_system\Visualisation\
