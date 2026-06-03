@@ -15,7 +15,7 @@ While Blender is available via the official website, we strongly recommend downl
 * **Ready-to-Go:** No need to spend hours toggling add-on settings; everything is enabled by default.
 * **Clean Interface:** Our custom template removes the "default cube" clutter and redundant UI panels.
 * **Optimized Performance:** Pre-set render settings for faster visualization previews.
-* **Wide range of default materials**: Plastics, metals, woods, glasses,...
+* **Wide range of default materials**: Plastics, metals, woods, glasses,... Just drag and drop materials, just like keyshot. 
 
 ## 🛠 Installation & Usage
 1. **Download** the latest release from the [Releases](../../releases) page.
