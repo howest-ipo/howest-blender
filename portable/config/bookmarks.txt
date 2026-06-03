@@ -1,5 +1,7 @@
 [Bookmarks]
 [Recent]
+C:\howest-blender\
+C:\Users\541E3C6364D69A19901\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Course\Photo matching\Course material\exercise files\exercise 1\
 C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Course\Photo matching\Course material\exercise files\exercise 2\
 C:\Temp\
 C:\Users\Glenn\Downloads\
@@ -8,5 +10,3 @@ C:\Users\Glenn\Downloads\photo_matching_exercise_1_drone_display\exercise 1\
 C:\Users\541E3C6364D69A19901\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Experiments\LowStool\model\
 C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Assets\Studio scenes\
 C:\Users\Glenn\Downloads\exercise\
-C:\Users\Glenn\OneDrive - Hogeschool West-Vlaanderen\Courses\2025 - 2026\Semester 2\Visualisation\Course\Photo matching\Course material\exercise files\exercise 1\
-C:\Users\541E3C6364D69A19901\Downloads\
